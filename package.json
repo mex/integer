@@ -1,23 +1,22 @@
 {
-	"name": "integer",
-	"version": "0.0.1",
-	"description": "Provides methods for comparing, manipulating, and calculating with integers",
-	"main": "index.js",
-	"scripts": {
-		"test": "mocha --reporter spec ./test.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/mstorgaard/integer"
-	},
-	"author": "Michael Storgaard",
-	"bugs": {
-		"url": "https://github.com/mstorgaard/integer/issues"
-	},
-	"license": "MIT",
-	"dependencies": {
-	},
-	"devDependencies": {
-		"mocha": "*"
-	}
+  "name": "integer",
+  "version": "0.0.2",
+  "description": "Provides methods for comparing, manipulating, and calculating with integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mstorgaard/integer"
+  },
+  "author": "Michael Storgaard",
+  "bugs": {
+    "url": "https://github.com/mstorgaard/integer/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
 }
